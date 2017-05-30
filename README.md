@@ -1,12 +1,8 @@
-# PhaserGAME
+# CodeWays a Phaser HTML5 Game 
+Code X Ways to Die
 
-## Features
-- ESLINT with JavaScript Standard Style configuration
-- Next generation of Javascript
-- Webpack ready
-- Multiple browser testing
-- WebFont Loader
-
+## Video
+https://youtu.be/r0kcEbVNT8Q
 
 # Setup
 To use this bootstrap you’ll need to install a few things before you have a working copy of the project.
