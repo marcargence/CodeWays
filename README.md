@@ -55,6 +55,9 @@ Run:
 
 This will optimize and minimize the compiled bundle.
 
+## You can play 
+http://girona.menamora.cat/codeways/
+
 ## Credits
 Big thanks to this great repos:
 
