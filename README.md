@@ -51,7 +51,8 @@ Run:
 
 This will optimize and minimize the compiled bundle.
 
-## You can play 
+## Play de game at
+https://play.google.com/store/apps/details?id=com.codeways.v1&hl=es
 http://girona.menamora.cat/codeways/
 
 ## Credits
