@@ -50,7 +50,7 @@ Run:
 
 This will optimize and minimize the compiled bundle.
 
-## Play de game at
+## Play de game
 Android: https://play.google.com/store/apps/details?id=com.codeways.v1&hl=es
 
 Html5: http://girona.menamora.cat/codeways/
