@@ -1,4 +1,4 @@
-# CodeWays a Phaser HTML5 Game 
+# CodeWays a Phaser HTML5-Android Game 
 Code X Ways to Die
 
 ## Video
@@ -52,8 +52,9 @@ Run:
 This will optimize and minimize the compiled bundle.
 
 ## Play de game at
-https://play.google.com/store/apps/details?id=com.codeways.v1&hl=es
-http://girona.menamora.cat/codeways/
+Android: https://play.google.com/store/apps/details?id=com.codeways.v1&hl=es
+
+Html5: http://girona.menamora.cat/codeways/
 
 ## Credits
 Big thanks to this great repos:
