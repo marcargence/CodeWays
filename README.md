@@ -1,7 +1,6 @@
 # CodeWays a Phaser HTML5-Android Game 
-Code X Ways to Die
 
-## Video
+##Product demo video:
 https://youtu.be/r0kcEbVNT8Q
 
 # Setup
