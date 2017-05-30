@@ -5,7 +5,7 @@ Code X Ways to Die
 https://youtu.be/r0kcEbVNT8Q
 
 # Setup
-To use this bootstrap you’ll need to install a few things before you have a working copy of the project.
+You’ll need to install a few things before you have a working copy of the project.
 
 ## 1. Clone this repo:
 
