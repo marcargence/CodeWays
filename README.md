@@ -1,6 +1,6 @@
 # CodeWays a Phaser HTML5-Android Game 
 
-## Product demo [VIDEO](https://youtu.be/r0kcEbVNT8Q):
+## Product demo [VIDEO](https://youtu.be/r0kcEbVNT8Q).
 
 # Setup
 You’ll need to install a few things before you have a working copy of the project.
